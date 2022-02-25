@@ -21,4 +21,4 @@ Jupyter Notebooks from Course, "Python for Data Science and Machine Learning Boo
 * Deep Learning 
 and more
 
-More notes for self-teaching found [here](https://docs.google.com/presentation/d/1WurfW8OWRqjiSmzmwOW71iN6CEShkbfOnyETqTvf6BE/edit#slide=id.p). 
+More material for self-education found [here](https://docs.google.com/presentation/d/1WurfW8OWRqjiSmzmwOW71iN6CEShkbfOnyETqTvf6BE/edit#slide=id.p). 
