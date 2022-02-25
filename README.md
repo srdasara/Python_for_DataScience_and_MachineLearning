@@ -20,3 +20,5 @@ Jupyter Notebooks from Course, "Python for Data Science and Machine Learning Boo
 * Support Vector Machines
 * Deep Learning 
 and more
+
+More notes found [here](https://docs.google.com/presentation/d/1WurfW8OWRqjiSmzmwOW71iN6CEShkbfOnyETqTvf6BE/edit#slide=id.p). 
